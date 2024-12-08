@@ -56,18 +56,7 @@ library(car)
 1. Clone this repository
 2. Install required R packages
 3. Run the analysis scripts in the `scripts` directory
-4. View results in the `results` directory
 
 ## Contributing
 
 Feel free to fork this repository and submit pull requests for improvements.
-
-## License
-
-This project is licensed under the MIT License.
-
----
-*Note: This project was completed as part of a data analysis assignment focusing on statistical methods and R programming.*
-
-Citations:
-[1] https://ppl-ai-file-upload.s3.amazonaws.com/web/direct-files/38976877/938fda54-be1e-4f23-86d4-e2d539b28153/Numerical-Assignment.docx-1.pdf
